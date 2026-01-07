@@ -108,11 +108,4 @@ Through this project, I practiced:
 This project was implemented as part of **Python fundamentals practice**  
 during my Summer training at Faculty of Engineering 2022.
 
----
-
-## 🧑‍💻 Author
-
-**Mohamed Salah**  
-Electronics & Communications Engineer  
-
----
+--- 
